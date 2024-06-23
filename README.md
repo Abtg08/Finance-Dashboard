@@ -6,7 +6,7 @@
 
  ![Screenshot 2024-06-23 150858](https://github.com/Abtg08/Finance-Dashboard/assets/87989296/4b900296-0e7c-4048-b2cc-7a4e96644229)
 
-### Dashboard Link : https://app.powerbi.com/groups/me/reports/f404b0b6-93bc-46c5-81b4-39a36d1181fc/ReportSection?experience=power-bi
+### Dashboard Link: https://app.powerbi.com/groups/me/reports/f404b0b6-93bc-46c5-81b4-39a36d1181fc/ReportSection?experience=power-bi
 
 ## Introduction
 The Finance Dashboard is a powerful and intuitive tool designed to help users manage and visualize their financial data. It provides key performance indicators (KPIs) such as Savings, Expenses, Savings %, Income, and Expenses by Date, offering a comprehensive overview of one's financial health. This dashboard is designed to simplify financial tracking and analysis, making it easier for users to make informed financial decisions.
